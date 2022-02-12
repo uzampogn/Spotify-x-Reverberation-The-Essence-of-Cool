@@ -1,6 +1,5 @@
 # Spotify-x-Reverberation-The-essence-of-cool
 
-# <a><center> Spotify x Reverberation Radio - The essence of Cool </center></a>
 Author: Ulysse Zampogna
 
 The project consists in revealing the secrets of the best radio on earth (according to me): Reverberation. This radio is a collective of artists based in Austin texas, regularly featuring guests apperarences from all over the world. The radio releases one show on a weekly basis. The music selection is excquisit and covers an eclectic range of music history. 
