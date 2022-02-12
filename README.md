@@ -1,6 +1,13 @@
 # Spotify-x-Reverberation-The-essence-of-cool
 
+# <a><center> Spotify x Reverberation Radio - The essence of Cool </center></a>
 Author: Ulysse Zampogna
 
-The project consists in revealing the secrets of the best radio on earth: Reverberation. The radio is composed of a collective of artists from Austin texas. Featuring apperarence from all over the world and releasing one show every week. The music selection is excquisit and covers a broad range of music history.
-The jupyter notebook attached uses a Spotify developer desktop to collect all information about the Reverberation tracklist. The future updates will use clustering techniques to reveal the main thema of the radio selection and classification algorithm to predict if a given title could enter the Reverberation playlist.
+The project consists in revealing the secrets of the best radio on earth (according to me): Reverberation. This radio is a collective of artists based in Austin texas, regularly featuring guests apperarences from all over the world. The radio releases one show on a weekly basis. The music selection is excquisit and covers an eclectic range of music history. 
+
+But what make this radio so special? Let's compare it with a few popular playlists on Spotify and try to define the Reverberation's essence of Cool. 
+
+This Data Science project is broken down in 3 notebooks:
+ - [Part 1](https://github.com/uzampogn/Spotify-x-Reverberation-The-essence-of-cool) uses the Spotipy API to collect data from a dozen of playlists. 
+ - [Part 2](https://github.com/uzampogn/Spotify-x-Reverberation-The-essence-of-cool) performs an exploratory data analysis to unveal some of the secrets of each playlist. 
+ - [Part 3](https://github.com/uzampogn/Spotify-x-Reverberation-The-essence-of-cool) is a series of classifiers which takes any track and predict if a given track could enter the exquisit Reverberation playlist.
