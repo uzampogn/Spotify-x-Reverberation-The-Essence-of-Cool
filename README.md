@@ -7,6 +7,6 @@ The project consists in revealing the secrets of the best radio on earth (accord
 But what make this radio so special? Let's compare it with a few popular playlists on Spotify and try to define the Reverberation's essence of Cool. 
 
 This Data Science project is broken down in 3 notebooks:
- - [Part 1](https://github.com/uzampogn/Spotify-x-Reverberation-The-essence-of-cool) uses the Spotipy API to collect data from a dozen of playlists. 
+ - [Part 1](https://github.com/uzampogn/Spotify-x-Reverberation-The-essence-of-cool) uses [Spotipy API(https://spotipy.readthedocs.io/en/2.19.0/) to collect data from a dozen of playlists. 
  - [Part 2](https://github.com/uzampogn/Spotify-x-Reverberation-The-essence-of-cool) performs an exploratory data analysis to unveal some of the secrets of each playlist. 
  - [Part 3](https://github.com/uzampogn/Spotify-x-Reverberation-The-essence-of-cool) is a series of classifiers which takes any track and predict if a given track could enter the exquisit Reverberation playlist.
