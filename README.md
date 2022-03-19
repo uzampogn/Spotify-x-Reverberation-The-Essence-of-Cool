@@ -12,9 +12,9 @@ This Data Science project is broken down in 3 notebooks:
  - [Part 3](https://github.com/uzampogn/Spotify-x-Reverberation-The-essence-of-cool) is a series of classifiers ([Naïve Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html), [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) & [XGBoost](https://xgboost.readthedocs.io/en/stable/)) which takes any track and predicts the best matching playlist. Let's see if a given track could enter the exquisit Reverberation playlist.
 
 ---
-# Executive summary:
+# EDA Executive summary:
 
-Reverberation is special because of its:
+Reverberation Radio is special because of its:
 
    1. Eclectism. Reverberation features 10x more diversity than its benchmarcks and is specialized in niche genres.
    2. Richness. Reverberation contains 10 to 30x more tracks which spans 70+ years of music history.
