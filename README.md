@@ -19,7 +19,7 @@ Reverberation Radio is special because of its:
    1. Eclectism. Reverberation features 10x more diversity than its benchmarcks and is specialized in niche genres.
    2. Richness. Reverberation contains 10 to 30x more tracks which spans 70+ years of music history.
    3. Niche. Collectable. Rarities. Reverberation has by far the lowest average track popularity. -73% less popular than other playlists on average.
-   2. Happiness Concentrate. Finally, Reverberation shows a significantly higher valence than other playlist (+19% on average)
+   2. Happiness Concentrate. Finally, Reverberation shows a significantly higher valence (measure of happiness) than other playlist (+19% on average)
    
 Currently Reverberation operates mainly from its [tumblr](https://reverberationradio.com/) which also features their personal website for merch (powered by Shopify), Apple Podcast, Instagram and Twitter accounts. Overall, their internet footprint is quite disparate which certainly influence their capacity of reaching a greater audience as well as converting these fans into financial support for the collective and its artists.
 
