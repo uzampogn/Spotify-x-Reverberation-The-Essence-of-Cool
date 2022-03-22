@@ -1,4 +1,4 @@
-![Spotify-x-Reverberation-The-essence-of-cool](./Spotify x RVB - Logo.png)
+![Spotify-x-Reverberation-The-essence-of-cool](https://github.com/uzampogn/Spotify-x-Reverberation-The-essence-of-cool/blob/main/Spotify%20x%20RVB%20-%20Logo.png)
 # Spotify-x-Reverberation-The-essence-of-cool
 
 Author: Ulysse Zampogna
