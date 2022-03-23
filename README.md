@@ -41,4 +41,4 @@ Developing Reverberation Radio visibility and activity on Spotify would help the
 
 Finaly, Reveberation is one of many small communities of independent artists that can greatly benefit from the breadth of services proposed by Spotify while continuing to focus on what matters the most - its art. Many communities like these exist all over the world. The best example of artistic and business success is the infamous *King Gizzard and The Lizzard Wizard* band with its Flightless Records. A true masterclass of turning an independent band/label into a success story.
 
-![SxR](Spotify x RVB - Logo.png)
+![SxR](https://github.com/uzampogn/Spotify-x-Reverberation-The-essence-of-cool/blob/main/Spotify%20x%20RVB%20-%20Logo.png)
