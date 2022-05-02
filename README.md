@@ -18,14 +18,14 @@ Reverberation Radio is special because of its:
 
    1. Eclectism. Reverberation features 10x more diversity than its benchmarcks and is specialized in niche genres.
    2. Richness. Reverberation contains 10 to 30x more tracks which spans 70+ years of music history.
-   3. Niche. Collectable. Rarities. Reverberation has by far the lowest average track popularity. -73% less popular than other playlists on average.
-   2. Happiness Concentrate. Finally, Reverberation shows a significantly higher valence (measure of happiness) than other playlist (+19% on average)
+   3. Niche. Collectable. Rarities. Reverberation has by far the lowest average track popularity. -73% less popular than other playlists.
+   2. Happiness Concentrate. Finally, Reverberation shows a significantly higher valence (measure of happiness) than other playlists (+19% on average)
    
-Currently Reverberation operates mainly from its [tumblr](https://reverberationradio.com/) which also features their personal website for merch (powered by Shopify), Apple Podcast, Instagram and Twitter accounts. Overall, their internet footprint is quite disparate which certainly influence their capacity of reaching a greater audience as well as converting these fans into financial support for the collective and its artists.
+Currently Reverberation operates mainly from its [tumblr](https://reverberationradio.com/) which also features their personal website for merch (powered by Shopify), Apple Podcast, Instagram and Twitter accounts. Overall, their internet footprint is quite disparate which certainly undermines their capacity of reaching a greater audience as well as converting these fans into financial support for the collective and its artists.
 
 ### Business case:
 
-Developing Reverberation Radio visibility and activity on Spotify would help the collective consolidating their fanbase and monetize it seamingly. A few advantages Spotify proposes:
+Developing Reverberation Radio visibility and activity on Spotify would help consolidating their fanbase and monetize it seamingly. A few advantages Spotify proposes:
 
    1. 400+Mio monthly listeners with an extremely performant Machine Learning infrastructure enabling personalized discovery for every user. Reveberation could unleash the power of its unique selection to a greater audience of interest.
    
@@ -39,7 +39,7 @@ Developing Reverberation Radio visibility and activity on Spotify would help the
    4. Reverberation could turn their collectable/rarities trademark by proposing through Spotify services limited/collector items - including merch, records or web3 tokens. Especially because the radio has tight links with successful designers and visual artists (for example [Jaime Zu](https://jaimezu.bigcartel.com/)) which is clearly recognizable when browsing through their tumblr or merch selection. In short,  exciting artistic and business opportunities emerge when considering the whole eco-system.
    
 
-Finaly, Reveberation is one of many small communities of independent artists that can greatly benefit from the breadth of services proposed by Spotify while continuing to focus on what matters the most - its art. Many communities like these exist all over the world. The best example of artistic and business success is the infamous *King Gizzard and The Lizzard Wizard* band with its Flightless Records. A true masterclass of turning an independent band/label into a success story.
+Finaly, Reveberation is one of many small communities of independent artists that can greatly benefit from the breadth of services proposed by Spotify while continuing to focus on what matters the most - its art. Many communities like these exist all over the world and are not yet included in Spotify's catalog. The best example of artistic and business success is the infamous *King Gizzard and The Lizzard Wizard* band with its Flightless Records. A true masterclass of turning an independent band/label into a success story.
 
 <p align="center">
   <img src="https://github.com/uzampogn/Spotify-x-Reverberation-The-essence-of-cool/blob/main/Spotify%20x%20RVB%20-%20Logo.png" />
