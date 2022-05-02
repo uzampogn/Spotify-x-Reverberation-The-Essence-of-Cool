@@ -1,4 +1,4 @@
-# Spotify-x-Reverberation-The-essence-of-Cool
+# Spotify-x-Reverberation-The-Essence-of-Cool
 
 Author: Ulysse Zampogna
 
