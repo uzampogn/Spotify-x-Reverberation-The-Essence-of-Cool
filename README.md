@@ -23,6 +23,8 @@ Reverberation Radio is special because of its:
    
 Currently Reverberation operates mainly from its [tumblr](https://reverberationradio.com/) which also features their personal website for merch (powered by Shopify), Apple Podcast, Instagram and Twitter accounts. Overall, their internet footprint is quite disparate which certainly undermines their capacity of reaching a greater audience as well as converting these fans into financial support for the collective and its artists.
 
+Reveberation radio is one example of many small communities of independent artists that can greatly benefit from the breadth of services proposed by Spotify while continuing to focus on what matters the most - its art. Many similar communities exist all over the world and are not yet included in Spotify's catalog. The best example of artistic and business success is the infamous *King Gizzard and The Lizzard Wizard* band with its Flightless Records. A true masterclass of turning an independent band/label into a success story.
+
 ### Business case:
 
 Developing Reverberation Radio visibility and activity on Spotify would help consolidating their fanbase and monetize it seamingly. A few advantages Spotify proposes:
@@ -37,10 +39,7 @@ Developing Reverberation Radio visibility and activity on Spotify would help con
    
    
    4. Reverberation could turn their collectable/rarities trademark by proposing through Spotify services limited/collector items - including merch, records or web3 tokens. Especially because the radio often collaborates with successful designers and visual artists (for example [Jaime Zu](https://jaimezu.bigcartel.com/)). His art is featured all over Reverberation's tumblr or merch selection. In short, exciting artistic and business opportunities emerge when considering the whole eco-system of Reverberation collective.
-   
-
-Finally, Reveberation is one example of many small communities of independent artists that can greatly benefit from the breadth of services proposed by Spotify while continuing to focus on what matters the most - its art. Many similar communities exist all over the world and are not yet included in Spotify's catalog. The best example of artistic and business success is the infamous *King Gizzard and The Lizzard Wizard* band with its Flightless Records. A true masterclass of turning an independent band/label into a success story.
-
+    
 <p align="center">
   <img src="https://github.com/uzampogn/Spotify-x-Reverberation-The-essence-of-cool/blob/main/Spotify%20x%20RVB%20-%20Logo.png" />
 </p>
